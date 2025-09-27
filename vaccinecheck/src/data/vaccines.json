@@ -130,5 +130,16 @@
     "18-64 years": "YES, ≥6 months (Annually. See ACIP notes for more information)",
     ">= 65 years": "YES, ≥6 months (Annually. See ACIP notes for more information)",
     "": ""
+  },
+  {
+    "Vaccines by applicant": "COVID-19",
+    "Birth— I month": "NO, if less than six months old ",
+    "2—11 months": "YES, ≥6 months (Annually. See ACIP notes for more information)",
+    "12 months - 6 years": "YES, ≥6 months (Annually. See ACIP notes for more information)",
+    "7—10 years": "YES, ≥6 months (Annually. See ACIP notes for more information)",
+    "11—17 years": "YES, ≥6 months (Annually. See ACIP notes for more information)",
+    "18-64 years": "YES, ≥6 months (Annually. See ACIP notes for more information)",
+    ">= 65 years": "YES, ≥6 months (Annually. See ACIP notes for more information)",
+    "": ""
   }
 ]
