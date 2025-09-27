@@ -1,0 +1,134 @@
+[
+  {
+    "Vaccines by applicant": "DTP/DTaP/DT",
+    "Birth— I month": "NO",
+    "2—11 months": "YES",
+    "12 months - 6 years": "YES",
+    "7—10 years": "NO",
+    "11—17 years": "NO",
+    "18-64 years": "NO",
+    ">= 65 years": "NO",
+    "": ""
+  },
+  {
+    "Vaccines by applicant": "Tdap/Td",
+    "Birth— I month": "NO",
+    "2—11 months": "NO",
+    "12 months - 6 years": "NO",
+    "7—10 years": "Sometimes*",
+    "11—17 years": "YES Refer to ACIP Tdap/Td notes for adults without history of primary vaccination series",
+    "18-64 years": "YES Refer to ACIP Tdap/Td notes for adults without history of primary vaccination series",
+    ">= 65 years": "YES Refer to ACIP Tdap/Td notes for adults without history of primary vaccination series",
+    "": ""
+  },
+  {
+    "Vaccines by applicant": "Polio",
+    "Birth— I month": "NO",
+    "2—11 months": "YES Refer to ACIP Poliovirus notes for adults without history of primary vaccination series",
+    "12 months - 6 years": "YES Refer to ACIP Poliovirus notes for adults without history of primary vaccination series",
+    "7—10 years": "YES Refer to ACIP Poliovirus notes for adults without history of primary vaccination series",
+    "11—17 years": "YES Refer to ACIP Poliovirus notes for adults without history of primary vaccination series",
+    "18-64 years": "YES Refer to ACIP Poliovirus notes for adults without history of primary vaccination series",
+    ">= 65 years": "YES Refer to ACIP Poliovirus notes for adults without history of primary vaccination series",
+    "": ""
+  },
+  {
+    "Vaccines by applicant": "Measles, Mumps, and Rubella",
+    "Birth— I month": "NO",
+    "2—11 months": "NO",
+    "12 months - 6 years": "YES, if born in 1957 or later",
+    "7—10 years": "YES, if born in 1957 or later",
+    "11—17 years": "YES, if born in 1957 or later",
+    "18-64 years": "YES, if born in 1957 or later",
+    ">= 65 years": "YES, if born in 1957 or later",
+    "": ""
+  },
+  {
+    "Vaccines by applicant": "Rotavirus***",
+    "Birth— I month": "NO",
+    "2—11 months": "YES Six weeks to eight months",
+    "12 months - 6 years": "NO",
+    "7—10 years": "NO",
+    "11—17 years": "NO",
+    "18-64 years": "NO",
+    ">= 65 years": "NO",
+    "": ""
+  },
+  {
+    "Vaccines by applicant": "Hib",
+    "Birth— I month": "NO",
+    "2—11 months": "YES 2 through 59 months old",
+    "12 months - 6 years": "YES 2 through 59 months old",
+    "7—10 years": "NO",
+    "11—17 years": "NO",
+    "18-64 years": "NO",
+    ">= 65 years": "NO",
+    "": ""
+  },
+  {
+    "Vaccines by applicant": "Hepatitis A",
+    "Birth— I month": "NO",
+    "2—11 months": "NO",
+    "12 months - 6 years": "YES 12 months through 18 years old",
+    "7—10 years": "YES 12 months through 18 years old",
+    "11—17 years": "YES 12 months through 18 years old",
+    "18-64 years": "NO",
+    ">= 65 years": "NO",
+    "": ""
+  },
+  {
+    "Vaccines by applicant": "Hepatitis B",
+    "Birth— I month": "YES, through 59 years old",
+    "2—11 months": "YES, through 59 years old",
+    "12 months - 6 years": "YES, through 59 years old",
+    "7—10 years": "YES, through 59 years old",
+    "11—17 years": "YES, through 59 years old",
+    "18-64 years": "YES, through 59 years old",
+    ">= 65 years": "NO",
+    "": ""
+  },
+  {
+    "Vaccines by applicant": "Meningococcal (MenACWY)",
+    "Birth— I month": "NO",
+    "2—11 months": "NO",
+    "12 months - 6 years": "NO",
+    "7—10 years": "NO",
+    "11—17 years": "YES 11 through 18 years old",
+    "18-64 years": "NO",
+    ">= 65 years": "NO",
+    "": ""
+  },
+  {
+    "Vaccines by applicant": "Varicella",
+    "Birth— I month": "NO",
+    "2—11 months": "NO",
+    "12 months - 6 years": "YES",
+    "7—10 years": "YES",
+    "11—17 years": "YES",
+    "18-64 years": "YES",
+    ">= 65 years": "YES",
+    "": ""
+  },
+  {
+    "Vaccines by applicant": "Pneumococcal",
+    "Birth— I month": "NO",
+    "2—11 months": "YES, 2 through 59 months old (Administer PCV)",
+    "12 months - 6 years": "YES, 2 through 59 months old (Administer PCV)",
+    "7—10 years": "NO",
+    "11—17 years": "NO",
+    "18-64 years": "NO",
+    ">= 65 years": "YES, 2 through 59 months old (Administer PCV)",
+    "": ""
+  },
+  {
+    "Vaccines by applicant": "Influenza",
+    "Birth— I month": "NO, if less than six months old ",
+    "2—11 months": "YES, ≥6 months (Annually. See ACIP notes for more information)",
+    "12 months - 6 years": "YES, ≥6 months (Annually. See ACIP notes for more information)",
+    "7—10 years": "YES, ≥6 months (Annually. See ACIP notes for more information)",
+    "11—17 years": "YES, ≥6 months (Annually. See ACIP notes for more information)",
+    "18-64 years": "YES, ≥6 months (Annually. See ACIP notes for more information)",
+    ">= 65 years": "YES, ≥6 months (Annually. See ACIP notes for more information)",
+    "": ""
+  }
+]
