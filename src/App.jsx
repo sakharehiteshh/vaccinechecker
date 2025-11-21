@@ -134,6 +134,60 @@ export default function App() {
 
     return (
       <>
+
+              
+      {/* ---------- LABS SECTION ---------- */}
+      <section className="results" style={{ marginTop: "32px" }}>
+        <h2>Recommended Labs</h2>
+
+        {!age ? (
+          <div className="empty">Enter a valid DOB to view lab recommendations.</div>
+        ) : (
+          (() => {
+            const yrs = age.years;
+
+            const labs = [];
+
+            // Quantiferon
+            if (yrs >= 2) {
+              labs.push({
+                name: "Quantiferon Gold TB Test",
+                reason: "Recommended for ages 2 years and older",
+              });
+            }
+
+            // RPR Syphilis
+            if (yrs >= 18 && yrs <= 44) {
+              labs.push({
+                name: "RPR Syphilis Test",
+                reason: "Recommended for ages 18–44",
+              });
+            }
+
+            // NAAT Gonorrhoea
+            if (yrs >= 18 && yrs <= 24) {
+              labs.push({
+                name: "NAAT Gonorrhoea Test",
+                reason: "Recommended for ages 18–24",
+              });
+            }
+
+            return labs.length === 0 ? (
+              <div className="empty">No lab tests are required for this age.</div>
+            ) : (
+              <ul className="labList">
+                {labs.map((lab, i) => (
+                  <li key={i} className="labItem">
+                    <div className="labName">{lab.name}</div>
+                    <div className="labNote">{lab.reason}</div>
+                  </li>
+                ))}
+              </ul>
+            );
+          })()
+        )}
+      </section>
+
         <div className="twoCol">
           {/* LEFT: YES (Required) */}
           <div className="col">
@@ -181,6 +235,8 @@ export default function App() {
             )}
           </div>
         </div>
+
+
 
         {/* Optional: show “Sometimes / Info” below to keep your data complete */}
         {grouped.other.length > 0 && (
