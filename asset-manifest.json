@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vaccinechecker/static/css/main.cb18b2a3.css",
-    "main.js": "/vaccinechecker/static/js/main.e17a6e2d.js",
+    "main.css": "/vaccinechecker/static/css/main.3795c3c6.css",
+    "main.js": "/vaccinechecker/static/js/main.d5b394ed.js",
     "static/js/453.07ec280f.chunk.js": "/vaccinechecker/static/js/453.07ec280f.chunk.js",
     "index.html": "/vaccinechecker/index.html",
-    "main.cb18b2a3.css.map": "/vaccinechecker/static/css/main.cb18b2a3.css.map",
-    "main.e17a6e2d.js.map": "/vaccinechecker/static/js/main.e17a6e2d.js.map",
+    "main.3795c3c6.css.map": "/vaccinechecker/static/css/main.3795c3c6.css.map",
+    "main.d5b394ed.js.map": "/vaccinechecker/static/js/main.d5b394ed.js.map",
     "453.07ec280f.chunk.js.map": "/vaccinechecker/static/js/453.07ec280f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb18b2a3.css",
-    "static/js/main.e17a6e2d.js"
+    "static/css/main.3795c3c6.css",
+    "static/js/main.d5b394ed.js"
   ]
 }
