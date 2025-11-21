@@ -44,34 +44,12 @@
     "": ""
   },
   {
-    "Vaccines by applicant": "Rotavirus***",
-    "Birth— I month": "NO",
-    "2—11 months": "YES Six weeks to eight months",
-    "12 months - 6 years": "NO",
-    "7—10 years": "NO",
-    "11—17 years": "NO",
-    "18-64 years": "NO",
-    ">= 65 years": "NO",
-    "": ""
-  },
-  {
     "Vaccines by applicant": "Hib",
     "Birth— I month": "NO",
     "2—11 months": "YES 2 through 59 months old",
     "12 months - 6 years": "YES 2 through 59 months old",
     "7—10 years": "NO",
     "11—17 years": "NO",
-    "18-64 years": "NO",
-    ">= 65 years": "NO",
-    "": ""
-  },
-  {
-    "Vaccines by applicant": "Hepatitis A",
-    "Birth— I month": "NO",
-    "2—11 months": "NO",
-    "12 months - 6 years": "YES 12 months through 18 years old",
-    "7—10 years": "YES 12 months through 18 years old",
-    "11—17 years": "YES 12 months through 18 years old",
     "18-64 years": "NO",
     ">= 65 years": "NO",
     "": ""
@@ -84,17 +62,6 @@
     "7—10 years": "YES, through 59 years old",
     "11—17 years": "YES, through 59 years old",
     "18-64 years": "YES, through 59 years old",
-    ">= 65 years": "NO",
-    "": ""
-  },
-  {
-    "Vaccines by applicant": "Meningococcal (MenACWY)",
-    "Birth— I month": "NO",
-    "2—11 months": "NO",
-    "12 months - 6 years": "NO",
-    "7—10 years": "NO",
-    "11—17 years": "YES 11 through 18 years old",
-    "18-64 years": "NO",
     ">= 65 years": "NO",
     "": ""
   },
@@ -129,6 +96,39 @@
     "11—17 years": "YES, ≥6 months (Annually. See ACIP notes for more information)",
     "18-64 years": "YES, ≥6 months (Annually. See ACIP notes for more information)",
     ">= 65 years": "YES, ≥6 months (Annually. See ACIP notes for more information)",
+    "": ""
+  },
+  {
+    "Vaccines by applicant": "Rotavirus***",
+    "Birth— I month": "NO",
+    "2—11 months": "YES Six weeks to eight months",
+    "12 months - 6 years": "NO",
+    "7—10 years": "NO",
+    "11—17 years": "NO",
+    "18-64 years": "NO",
+    ">= 65 years": "NO",
+    "": ""
+  },
+  {
+    "Vaccines by applicant": "Hepatitis A",
+    "Birth— I month": "NO",
+    "2—11 months": "NO",
+    "12 months - 6 years": "YES 12 months through 18 years old",
+    "7—10 years": "YES 12 months through 18 years old",
+    "11—17 years": "YES 12 months through 18 years old",
+    "18-64 years": "NO",
+    ">= 65 years": "NO",
+    "": ""
+  },
+  {
+    "Vaccines by applicant": "Meningococcal (MenACWY)",
+    "Birth— I month": "NO",
+    "2—11 months": "NO",
+    "12 months - 6 years": "NO",
+    "7—10 years": "NO",
+    "11—17 years": "YES 11 through 18 years old",
+    "18-64 years": "NO",
+    ">= 65 years": "NO",
     "": ""
   },
   {
